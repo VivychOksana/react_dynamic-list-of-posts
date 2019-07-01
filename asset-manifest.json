@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_dynamic-list-of-posts/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react_dynamic-list-of-posts/static/js/main.e4e8ef4a.chunk.js",
+    "main.js.map": "/react_dynamic-list-of-posts/static/js/main.e4e8ef4a.chunk.js.map",
+    "runtime~main.js": "/react_dynamic-list-of-posts/static/js/runtime~main.69709ad2.js",
+    "runtime~main.js.map": "/react_dynamic-list-of-posts/static/js/runtime~main.69709ad2.js.map",
+    "static/js/2.b41502e9.chunk.js": "/react_dynamic-list-of-posts/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/react_dynamic-list-of-posts/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/react_dynamic-list-of-posts/index.html",
+    "precache-manifest.5a1931c0175863b4f33f966f293ff2ca.js": "/react_dynamic-list-of-posts/precache-manifest.5a1931c0175863b4f33f966f293ff2ca.js",
+    "service-worker.js": "/react_dynamic-list-of-posts/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react_dynamic-list-of-posts/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react_dynamic-list-of-posts/static/media/logo.5d5d9eef.svg"
+  }
+}
